@@ -1,0 +1,13 @@
+id,type,title,releaseYear,rating,specific1,specific2,genres
+M1,MOVIE,Inception,2010,8.8,148,Christopher Nolan,Sci-Fi:0.9;Action:0.8;Thriller:0.7
+M2,MOVIE,The Matrix,1999,8.7,136,Lana Wachowski,Sci-Fi:1.0;Action:0.9
+M3,MOVIE,Interstellar,2014,8.6,169,Christopher Nolan,Sci-Fi:0.9;Drama:0.8;Adventure:0.7
+M4,MOVIE,The Dark Knight,2008,9.0,152,Christopher Nolan,Action:0.9;Crime:0.8;Drama:0.7
+M5,MOVIE,Avengers: Endgame,2019,8.4,181,Anthony Russo,Action:0.9;Sci-Fi:0.8;Adventure:0.8
+M6,MOVIE,Parasite,2019,8.5,132,Bong Joon Ho,Thriller:0.8;Drama:0.9;Comedy:0.5
+S1,SERIES,Stranger Things,2016,8.7,4,34,Sci-Fi:0.9;Horror:0.7;Drama:0.6
+S2,SERIES,Breaking Bad,2008,9.5,5,62,Crime:0.9;Drama:1.0;Thriller:0.6
+S3,SERIES,The Office,2005,8.9,9,201,Comedy:1.0
+S4,SERIES,Game of Thrones,2011,9.2,8,73,Action:0.8;Adventure:0.9;Drama:0.9
+S5,SERIES,Dark,2017,8.8,3,26,Sci-Fi:1.0;Thriller:0.8;Drama:0.7
+S6,SERIES,The Mandalorian,2019,8.7,3,24,Action:0.8;Adventure:0.9;Sci-Fi:0.8
