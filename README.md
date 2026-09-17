@@ -80,7 +80,7 @@ Below are examples of the CLI application in action:
 ![My Watchlist](screenshots/watchlist.png)
 
 **5. Top Recommendations**  
-![Top Recommendations](screenshots/recommendations.png)
+![Top Recommendations](screenshots/recommendations.png.jpeg)
 
 ## Setup Instructions
 
