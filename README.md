@@ -81,6 +81,18 @@ Start the interactive CLI:
 mvn exec:java
 ```
 
+If you do not have Maven installed, you can run the pre-compiled application directly from the root directory:
+
+**Windows:**
+```bash
+java -cp "bin;lib/*" com.streampulse.Main
+```
+
+**macOS/Linux:**
+```bash
+java -cp "bin:lib/*" com.streampulse.Main
+```
+
 ### Testing
 Run the JUnit 5 test suite to verify core logic:
 ```bash
