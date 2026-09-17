@@ -63,24 +63,7 @@ classDiagram
     MediaItem <|-- Series
 ```
 
-## Screenshots
 
-Below are examples of the CLI application in action:
-
-**1. Main Menu**  
-![Main Menu](screenshots/menu.png)
-
-**2. Full Catalog**  
-![Full Catalog](screenshots/catalog.png)
-
-**3. Rating a Media Item**  
-![Rating a Media Item](screenshots/rating.png)
-
-**4. My Watchlist**  
-![My Watchlist](screenshots/watchlist.png)
-
-**5. Top Recommendations**  
-![Top Recommendations](screenshots/recommendations.png.jpeg)
 
 ## Setup Instructions
 
